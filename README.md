@@ -19,5 +19,8 @@ _This request will return a list of the users currently part of the workspace_
 
 For a list of all currently possible requests, please see the [OpenAPI documentation here](https://customer-api.baloolearning.se/v1/openapi.json).
 
+# Coding examples
+Still to come... Do you have any examples you wish to share? Please let us know!
+
 # Next steps...
 For support, requests for additions to our available endpoints, or notifications of upcoming chanegs, please feel free to join our Slack workspace, [Baloo Community](https://join.slack.com/t/baloolearninggroup/shared_invite/zt-1c7wiuagw-3JiKfrxAKhDgVfy~VglVng).
