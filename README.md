@@ -5,7 +5,7 @@ _Baloo is the modern learning management system (LMS) that enables organisations
 # Baloo external API
 This repository contains developer instructions for using the Baloo external API — a RESTful integration for third parties to consume and modify Baloo data. The feature is currently an add-on service that needs to be specifically enabled by your customer representative for your Baloo workspace.
 
-# How can we access the extrenal API?
+# How can we access the external API?
 Once the external API has been enabled for your workspace you will need to sign in to the Baloo dashboard as an administrator and create an access key. You do this by navigating to the `Configure` app and scrolling to the very bottom. Here you will be able to generate a total of two unique access keys. These will only be available upon creation so make sure to save the generated key in a safe space. If you loose the key you can at any point revoke the key and create a new one.
 
 With your access key ready you will be able to send requests to the external API endpoint `http://customer-api.baloolearning.se/v1/` by including it as an authorization bearer token. For example:
